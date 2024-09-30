@@ -1,0 +1,9 @@
+# This is the UUID of the Globus Group you created at the beginning of this notebook
+GROUP='c4505e02-7f56-11ef-9fa3-6f9995a83a2e'
+# The following refer to the destination collection, where the data will be copied to and that will serve as backend for the data portal
+UUID='992ada08-dc66-4ae3-b294-3eabce26d0bb'
+FOLDER='/datasets/'
+DOMAIN='g-477d90.c2d0f8.bd7c.data.globus.org'
+# collection of the source data, during the tutorial this is the "Cheap and FAIR Tutorial Datasets" collection
+SOURCE_UUID='7352d991-b0a0-49a2-830c-e8fe8c968ca2'
+SOURCE_FOLDER='/public/datasets/'
